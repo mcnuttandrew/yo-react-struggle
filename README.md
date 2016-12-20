@@ -5,7 +5,7 @@ This generator uses jsx, scss, and react-router. It is generally a personable co
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-react-story using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-react-struggle using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
