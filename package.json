@@ -1,6 +1,6 @@
 {
   "name": "generator-react-struggle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generates a light react app design for easy deployment to static hosting",
   "main": "gulpfile.js",
   "keywords": [
