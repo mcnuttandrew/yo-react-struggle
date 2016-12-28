@@ -8,15 +8,15 @@ const extend = require('deep-extend');
 
 const fileList = [
   {
-    generatorPath: '.eslintignore',
+    generatorPath: '_eslintignore',
     projectPath: '.eslintignore',
   },
   {
-    generatorPath: '.eslintrc',
+    generatorPath: '_eslintrc',
     projectPath: '.eslintrc',
   },
   {
-    generatorPath: '.gitignore',
+    generatorPath: '_gitignore',
     projectPath: '.gitignore',
   },
   {
