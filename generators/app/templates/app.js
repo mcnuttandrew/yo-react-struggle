@@ -10,4 +10,4 @@ ReactDOM.render((
     <Route path="/<%= title %>" component={Root}></Route>
     <Route path="/" component={Root}></Route>
   </Router>
-),  document.getElementById('app'))
+),  document.querySelector('.app-root'));
