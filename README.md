@@ -26,6 +26,25 @@ npm run watch
 
 and your off!
 
+## Project structure
+
+Once you've scaffold the app you'll have something like this:
+
+
+```
+/src
+ -> app.js
+//components
+   -> root.jsx
+//stylesheets
+   -> main.scss
+```
+
+App js has the router information in it, root.jsx is where you should begin your app,
+and main.scss is where you should begin your styling.
+
+
+
 ## Contributing
 PR's are welcome!
 
